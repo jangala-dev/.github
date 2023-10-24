@@ -53,6 +53,12 @@ Include links to any clickup or other external relevant tickets
 
 <!-- Visual changes require screenshots -->
 
+<!--
+Have you manually tested this code and confirmed it is working?
+-->
+## Manual test
+- [ ] 👍 yes
+- [ ] 🙅 no
 
 ## Added tests?
 
@@ -67,6 +73,3 @@ Include links to any clickup or other external relevant tickets
 
 ## [optional] Are there any post-deployment tasks we need to perform?
 
-
-
-## [optional] What gif best describes this PR or how it makes you feel?
