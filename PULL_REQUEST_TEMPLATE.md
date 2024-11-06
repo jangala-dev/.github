@@ -15,9 +15,7 @@
 
   Delete any sections that are not needed.
 -->
-
 ## What type of PR is this? (check all applicable)
-
 - [ ] 🍕 Feature
 - [ ] 🐛 Bug Fix
 - [ ] 📝 Documentation Update
@@ -31,7 +29,6 @@
 - [ ] ⏩ Revert
 
 ## Description
-
 <!-- 
 Please do not leave this blank.  Give a brief description of the pull request followed by a list of changes.
 
@@ -50,24 +47,19 @@ Include links to any clickup or other external relevant tickets
 -->
 
 ## Screenshots/Recordings
-
 <!-- Visual changes require screenshots -->
 
-<!--
-Have you manually tested this code and confirmed it is working?
--->
 ## Manual test
+<!-- Have you manually tested this code and confirmed it is working? -->
 - [ ] 👍 yes
 - [ ] 🙅 no
 
 ## Added tests?
-
 - [ ] 👍 yes
 - [ ] 🙅 no, because they aren't needed
 - [ ] 🙋 no, because I need help
 
 ## Added to documentation?
-
 - [ ] 📜 README.md
 - [ ] 🙅 no documentation needed
 
