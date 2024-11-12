@@ -54,6 +54,9 @@ Include links to any clickup or other external relevant tickets
 - [ ] 👍 yes
 - [ ] 🙅 no
 
+## Manual test description
+<!-- If you selected "Yes" for manual testing, please provide a brief description of the test steps and results here. -->
+
 ## Added tests?
 - [ ] 👍 yes
 - [ ] 🙅 no, because they aren't needed
